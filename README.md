@@ -7,9 +7,9 @@ The `px4_msgs` package was released.
 Version of package(s) in repository `px4_msgs`:
 
 - upstream repository: https://github.com/PX4/px4_msgs.git
-- release repository: unknown
-- rosdistro version: `null`
-- old version: `null`
+- release repository: https://github.com/PX4/px4_msgs2-release.git
+- rosdistro version: `dashing`
+- old version: `2.0.0-1`
 - new version: `2.0.0-1`
 
 Versions of tools used:
@@ -30,9 +30,9 @@ The `px4_msgs` package was released.
 Version of package(s) in repository `px4_msgs`:
 
 - upstream repository: https://github.com/PX4/px4_msgs.git
-- release repository: unknown
-- rosdistro version: `null`
-- old version: `null`
+- release repository: https://github.com/PX4/px4_msgs2-release.git
+- rosdistro version: `crystal`
+- old version: `2.0.0-1`
 - new version: `2.0.0-1`
 
 Versions of tools used:
