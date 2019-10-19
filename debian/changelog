@@ -1,0 +1,8 @@
+ros-dashing-px4-msgs (2.0.0-1bionic) bionic; urgency=high
+
+  * First release of px4_msgs to ROS 2 distros
+  * Contributors: Nuno Marques, PX4 Build Bot, PX4BuildBot, TSC21
+
+ -- Nuno Marques <nuno.marques@dronesolutions.io>  Fri, 18 Oct 2019 23:00:00 -0000
+
+
