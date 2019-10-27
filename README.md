@@ -1,3 +1,26 @@
+## px4_msgs (dashing) - 2.0.1-1
+
+The packages in the `px4_msgs` repository were released into the `dashing` distro by running `/home/nuno/.local/bin/bloom-release --rosdistro dashing --track dashing px4_msgs` on `Sun, 27 Oct 2019 13:08:43 -0000`
+
+The `px4_msgs` package was released.
+
+Version of package(s) in repository `px4_msgs`:
+
+- upstream repository: https://github.com/PX4/px4_msgs.git
+- release repository: https://github.com/PX4/px4_msgs2-release.git
+- rosdistro version: `2.0.0-2`
+- old version: `2.0.0-2`
+- new version: `2.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.0`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## px4_msgs (crystal) - 2.0.1-1
 
 The packages in the `px4_msgs` repository were released into the `crystal` distro by running `/home/nuno/.local/bin/bloom-release --rosdistro crystal --track crystal px4_msgs` on `Sun, 27 Oct 2019 13:04:32 -0000`
